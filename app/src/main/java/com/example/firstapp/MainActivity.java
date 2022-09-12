@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     public static final String EXTRA_MESSAGE = "com.example.myfirstapp.MESSAGE";
     // creating variables for our edit text
     private EditText courseNameEdt, courseDurationEdt, courseDescriptionEdt;
-
+//another wild comment
     // creating variable for button
     private Button submitCourseBtn;
 
